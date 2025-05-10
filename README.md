@@ -46,3 +46,29 @@ This app was created to demonstrate:
 
 ## License
 MIT
+
+## Screenshots
+
+Starting screen with habit list:
+
+![alt text](image.png)
+
+Preferences screen. Set daily reminder time, notifications, list of habits on main screen, and select the theme:
+
+![alt text](image-1.png)
+
+Habit detail screen. You can see the description, mark as complete, show completion history, view current and streak history, show 7, 14, or 30 days when scrolling through the days.
+
+![alt text](image-2.png)
+
+Help Screen explaining how it works:
+
+![alt text](image-3.png)
+
+Continued Help Screen:
+
+![alt text](image-4.png)
+
+Add a new Habit at the bottom of the habit list or by tapping the + button:
+
+![alt text](image-5.png)
